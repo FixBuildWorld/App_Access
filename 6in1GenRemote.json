@@ -4,7 +4,7 @@
         "isDestroy": false,
         "configLink": "https://example.com/app-exlesx-configx",
         "postLink": "https://example.com/app-exlesx",
-        "getLink": "https://example.com/app-exlesx-get"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/6in1genTest.json"
         
     },
     "com.net.server42": {
