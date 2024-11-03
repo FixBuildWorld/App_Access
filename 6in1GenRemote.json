@@ -1,5 +1,15 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
-    "app.exlesx.net": true,
-    "com.net.server42": true
+    "com.fixbuildcore.vpngen.safelink": {
+        "isDestroy": false,
+        "postLink": "https://example.com/app-exlesx",
+        "getLink": "https://example.com/app-exlesx-get",
+        "configLink": "https://example.com/app-exlesx-config"
+    },
+    "com.net.server42": {
+        "isDestroy": true,
+        "postLink": "https://example.com/server42",
+        "getLink": "https://example.com/server42-get",
+        "configLink": "https://example.com/server42-config"
+    }
 }
