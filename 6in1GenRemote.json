@@ -1,7 +1,7 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
     "com.fixbuildcore.vpngen.safelink": {
-        "isDestroy": true,
+        "isDestroy": false,
         "configLink": "https://example.com/app-exlesx-configx",
         "postLink": "https://example.com/app-exlesx",
         "getLink": "https://example.com/app-exlesx-get"
