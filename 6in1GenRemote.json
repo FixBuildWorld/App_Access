@@ -2,14 +2,15 @@
     "Message": "This app blocked by developer! Contact: Fixbuild!",
     "com.fixbuildcore.vpngen.safelink": {
         "isDestroy": true,
+        "configLink": "https://example.com/app-exlesx-configx",
         "postLink": "https://example.com/app-exlesx",
-        "getLink": "https://example.com/app-exlesx-get",
-        "configLink": "https://example.com/app-exlesx-config"
+        "getLink": "https://example.com/app-exlesx-get"
+        
     },
     "com.net.server42": {
         "isDestroy": true,
-        "postLink": "https://example.com/server42",
-        "getLink": "https://example.com/server42-get",
-        "configLink": "https://example.com/server42-config"
+        "configLink": "https://example.com/app-exlesx-config",
+        "postLink": "https://example.com/app-exlesx",
+        "getLink": "https://example.com/app-exlesx-get"
     }
 }
