@@ -3,8 +3,8 @@
     "com.fixbuildcore.vpngen.safelink": {
         "isDestroy": false,
         "configLink": "https://example.com/app-exlesx-configx",
-        "postLink": "https://example.com/app-exlesx",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/6in1genTest.json"
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/6in1genTest.json",
+        "getLink": ""
         
     },
     "com.net.server42": {
