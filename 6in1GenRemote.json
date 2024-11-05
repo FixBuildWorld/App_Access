@@ -4,7 +4,7 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/6in1genTest.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/6in1genTest.json",
-        "getLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/6in1genTest.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/6in1genTest.json"
         
     },
     "com.net.server42": {
