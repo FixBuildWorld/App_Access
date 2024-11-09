@@ -1,1 +1,12 @@
 
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.code.feature": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/6in1genTest.json"
+    },
+    "com.net.server42": {
+        "isDestroy": true,
+        "configLink": "https://example.com/app-exlesx-config"
+    }
+}
