@@ -9,9 +9,9 @@
     },
     "com.fixbuildcore.vpngen.starlinkgen": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/6in1StarlinkV2ray.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/6in1StarlinkV2ray.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/6in1StarlinkV2ray.json"
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/q1DCjESbXgKKObsX",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/q1DCjESbXgKKObsX",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/q1DCjESbXgKKObsX"
         
     }
 }
