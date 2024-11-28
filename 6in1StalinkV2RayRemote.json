@@ -3,7 +3,7 @@
     "Message": "This app blocked by developer! Contact: Fixbuild!",
      "app.fixbuild.vpncore.starlinkv2ray": {
         "isDestroy": false,
-        "isCheck": true,
+        "isCheck": false,
         "F6:B5:25:A6:B7:22:AF:66:C6:1C:39:51:77:B3:DB:16:A3:FA:C8:B4:CD:56:E8:2C:7A:66:DA:99:E6:36:50:26": {
             "cBlockNotice": "w5fJfJl+31yirPbL1ztX1TRey5U8Wi3Dnhdk72hxCqKihEVCwUefVhW8s/5oGt+PHJg7qvmwraGbDOQrY0BAuGcl8SIvtZ0qY5oKP6LwZMEqODEa0VzaI0O/mWOPuhRdd451wzK05YMnfy9q4oY3aXr1tk7n5NS1vj5tsCUfy09ksdAz"
         }
