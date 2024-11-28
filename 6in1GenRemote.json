@@ -13,5 +13,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/q1DCjESbXgKKObsX",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/q1DCjESbXgKKObsX"
         
+    },
+    "com.fixbuildcore.vpngen.starlinkgencbc": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/MCDKIDMkULGJXB",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/MCDKIDMkULGJXB",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/MCDKIDMkULGJXB"
+        
     }
 }
