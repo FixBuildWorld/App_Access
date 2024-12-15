@@ -28,5 +28,12 @@
         "39:BE:00:09:D4:55:6B:0D:C6:13:47:1A:CA:D4:8A:4B:EC:B0:5F:7F:6C:B8:0F:EA:84:54:94:2F:E0:E9:B6:5B": {
             "cBlockNotice": "w5fJfJl+31yirPbL1ztX1TRey5U8Wi3Dnhdk72hxCqKihEVCwUefVhW8s/5oGt+PHJg7qvmwraGbDOQrY0BAuGcl8SIvtZ0qY5oKP6LwZMEqODEa0VzaI0O/mWOPuhRdd451wzK05YMnfy9q4oY3aXr1tk7n5NS1vj5tsCUfy09ksdAz"
         }
+    },
+     "app.fixbuild.vpncore.starlinkv2raybp": {
+        "isDestroy": false,
+        "isCheck": true,
+        "39:BE:00:09:D4:55:6B:0D:C6:13:47:1A:CA:D4:8A:4B:EC:B0:5F:7F:6C:B8:0F:EA:84:54:94:2F:E0:E9:B6:5B": {
+            "cBlockNotice": "w5fJfJl+31yirPbL1ztX1TRey5U8Wi3Dnhdk72hxCqKihEVCwUefVhW8s/5oGt+PHJg7qvmwraGbDOQrY0BAuGcl8SIvtZ0qY5oKP6LwZMEqODEa0VzaI0O/mWOPuhRdd451wzK05YMnfy9q4oY3aXr1tk7n5NS1vj5tsCUfy09ksdAz"
+        }
     }
 }
