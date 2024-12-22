@@ -20,5 +20,10 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/MCDKIDMkULGJXB",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/MCDKIDMkULGJXB"
         
+    }"com.fixbuildcore.vpngen.stablenetgen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/2YeZQGEQCPF88DIETg6l38djD",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/2YeZQGEQCPF88DIETg6l38djD",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/2YeZQGEQCPF88DIETg6l38djD"
     }
 }
