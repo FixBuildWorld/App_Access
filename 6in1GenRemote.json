@@ -26,5 +26,11 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/2YeZQGEQCPF88DIETg6l38djD",
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/2YeZQGEQCPF88DIETg6l38djD",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/2YeZQGEQCPF88DIETg6l38djD"
+    },
+    "com.fixbuildcore.vpngen.starlinkv2raygen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/starlinkv2raydec",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkv2raydec",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkv2raydec"
     }
 }
