@@ -1,7 +1,7 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
     "com.fixbuildcore.vpngen.fastraygen": {
-        "isDestroy": true,
+        "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/fastray.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/fastray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/fastray.json"
