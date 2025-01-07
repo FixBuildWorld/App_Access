@@ -6,5 +6,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/fastray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/fastray.json"
         
+    },
+    "com.fixbuildcore.vpngen.starlinkvpngen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/starlinkvpngen.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkvpngen.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkvpngen.json"
+        
     }
 }
