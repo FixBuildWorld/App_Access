@@ -19,6 +19,5 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/mobilyv2ray.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json"
-        
     }
 }
