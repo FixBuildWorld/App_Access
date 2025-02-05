@@ -32,5 +32,11 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/starlinkv2raydec",
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkv2raydec",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkv2raydec"
+    },
+    "com.fixbuildcore.vpngen.mobilyv2raygen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/mobilyv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json"
     }
 }
