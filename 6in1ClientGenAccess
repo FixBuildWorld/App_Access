@@ -28,8 +28,8 @@
     },
     "com.fixbuildcore.vpngen.imranv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/imranv2ray.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/imranv2ray.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/imranv2ray.json"
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/imranv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/imranv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/imranv2raylogin.json"
     }
 }
