@@ -22,9 +22,9 @@
     },
     "com.fixbuildcore.vpngen.noorvipvpn": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/noorvipvpn.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/noorvipvpn.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/noorvipvpn.json"
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/noorvipvpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/noorvipvpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/noorvipvpnlogin.json"
     },
     "com.fixbuildcore.vpngen.imranv2ray": {
         "isDestroy": false,
