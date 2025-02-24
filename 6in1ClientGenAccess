@@ -34,8 +34,8 @@
     },
     "com.fixbuildcore.vpngen.toofanv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/toofanv2raylogin.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/toofanv2raylogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/toofanv2raylogin.json"
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/toofanv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/toofanv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/toofanv2raylogin.json"
     }
 }
