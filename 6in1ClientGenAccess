@@ -43,5 +43,11 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mrvipproxylogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mrvipproxylogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mrvipproxylogin.json"
+    },
+    "com.fixbuildcore.vpngen.spiderv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/spiderv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json"
     }
 }
