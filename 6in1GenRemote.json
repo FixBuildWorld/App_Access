@@ -38,5 +38,11 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/mobilyv2ray.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json"
+    },
+    "com.fixbuildcore.vpngen.cloudlinkv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/CloudLinkV2Ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/CloudLinkV2Ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/CloudLinkV2Ray.json"
     }
 }
