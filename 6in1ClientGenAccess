@@ -67,5 +67,11 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/crownv2raylogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/crownv2raylogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/crownv2raylogin.json"
+    },
+    "com.fixbuildcore.vpngen.fvv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/fvv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fvv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fvv2raylogin.json"
     }
 }
