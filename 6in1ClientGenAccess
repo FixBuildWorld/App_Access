@@ -24,7 +24,8 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/noorvipvpnloginv2.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/noorvipvpnloginv2.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/noorvipvpnloginv2.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/noorvipvpnloginv2.json",
+        "noticeLink": "https://noorproxy.xyz/api/app?json=f8d231427e7b3f9c5868"
     },
     "com.fixbuildcore.vpngen.imranv2ray": {
         "isDestroy": false,
