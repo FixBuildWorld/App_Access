@@ -143,7 +143,7 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/shawonviplogin.json"
     },
     "com.fixbuildcore.vpngen.enjoyvipvpn": {
-        "isDestroy": false,
+        "isDestroy": true,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/enjoyvipvpnlogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/enjoyvipvpnlogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/enjoyvipvpnlogin.json"
