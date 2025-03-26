@@ -1,5 +1,5 @@
 {
-    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "Message": "This Config gen is blocked by developer! Contact: Fixbuild!",
     "com.fixbuildcore.vpngen.fastraygen": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/fastray.json",
