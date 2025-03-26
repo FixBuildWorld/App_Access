@@ -128,7 +128,8 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/sigmainternetlogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sigmainternetlogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sigmainternetlogin.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sigmainternetlogin.json",
+        "noticeLink": "https://sigmainternetvpn.xyz/api/files/app?json=499c458790a8f17f33eb"
     },
     "com.fixbuildcore.vpngen.sproxyv2": {
         "isDestroy": false,
