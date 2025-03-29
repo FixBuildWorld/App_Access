@@ -161,5 +161,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/wasifaqueenlogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/wasifaqueenlogin.json",
         "noticeLink": "https://wasifaqueen.store/api/master/app?json=5d55b6d5e0876eda7a0f"
+    },
+    "com.fixbuildcore.vpngen.uvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/uvpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/uvpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/uvpnlogin.json",
+        "noticeLink": "https://uvpnpro.xyz/api/app?json=95169392c1ef181b157b"
     }
 }
