@@ -168,5 +168,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/uvpnlogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/uvpnlogin.json",
         "noticeLink": "https://uvpnpro.xyz/api/app?json=95169392c1ef181b157b"
+    },
+    "com.fixbuildcore.vpngen.ratunnelpro": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/ratunnelprologin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ratunnelprologin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ratunnelprologin.json",
+        "noticeLink": "https://ratunnel.xyz/api/app?json=1958b0ce5124a7224a2a"
     }
 }
