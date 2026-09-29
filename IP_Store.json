@@ -1,1 +1,563 @@
-
+{
+  "37.111.215.80": {
+    "ip": "37.111.215.80",
+    "location": "Unknown, Unknown (ZIP: N/A) - Unknown",
+    "isp": "Unknown ISP",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "103.134.192.103": {
+    "ip": "103.134.192.103",
+    "location": "Dhaka, Dhaka Division - BD",
+    "isp": "Sysland Speed Online Network",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "138.199.6.185": {
+    "ip": "138.199.6.185",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "149.88.27.220": {
+    "ip": "149.88.27.220",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "185.159.157.134": {
+    "ip": "185.159.157.134",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "205.147.26.6": {
+    "ip": "205.147.26.6",
+    "location": "Luxembourg, Luxembourg - LU",
+    "isp": "Servers.com, Inc.",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "205.147.30.13": {
+    "ip": "205.147.30.13",
+    "location": "Milan, Lombardy - IT",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "212.104.214.19": {
+    "ip": "212.104.214.19",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "205.147.30.6": {
+    "ip": "205.147.30.6",
+    "location": "Milan, Lombardy - IT",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "95.173.205.155": {
+    "ip": "95.173.205.155",
+    "location": "Oslo, Oslo - NO",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "91.132.139.11": {
+    "ip": "91.132.139.11",
+    "location": "Langenzersdorf, Lower Austria - AT",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "103.69.224.156": {
+    "ip": "103.69.224.156",
+    "location": "Amsterdam, North Holland - NL",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "205.147.16.172": {
+    "ip": "205.147.16.172",
+    "location": "Amsterdam, North Holland - NL",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "190.2.132.148": {
+    "ip": "190.2.132.148",
+    "location": "Naaldwijk, South Holland - NL",
+    "isp": "WorldStream B.V.",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "193.29.107.164": {
+    "ip": "193.29.107.164",
+    "location": "Ballerup, Capital Region - DK",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "159.26.112.112": {
+    "ip": "159.26.112.112",
+    "location": "Marseille, Provence-Alpes-Côte d'Azur - FR",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "217.138.216.105": {
+    "ip": "217.138.216.105",
+    "location": "Berlin, State of Berlin - DE",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "205.147.28.42": {
+    "ip": "205.147.28.42",
+    "location": "Berlin, State of Berlin - DE",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "159.26.113.15": {
+    "ip": "159.26.113.15",
+    "location": "Lisbon, Lisbon - PT",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "159.26.107.34": {
+    "ip": "159.26.107.34",
+    "location": "Madrid, Madrid - ES",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "149.22.89.99": {
+    "ip": "149.22.89.99",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "62.169.136.4": {
+    "ip": "62.169.136.4",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "205.147.28.9": {
+    "ip": "205.147.28.9",
+    "location": "Berlin, State of Berlin - DE",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "159.26.112.18": {
+    "ip": "159.26.112.18",
+    "location": "Marseille, Provence-Alpes-Côte d'Azur - FR",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "79.127.169.52": {
+    "ip": "79.127.169.52",
+    "location": "Paris, Île-de-France - FR",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "205.147.28.16": {
+    "ip": "205.147.28.16",
+    "location": "Berlin, State of Berlin - DE",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "185.230.125.47": {
+    "ip": "185.230.125.47",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "149.88.27.194": {
+    "ip": "149.88.27.194",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "185.159.157.136": {
+    "ip": "185.159.157.136",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "79.127.184.130": {
+    "ip": "79.127.184.130",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "66.234.146.40": {
+    "ip": "66.234.146.40",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "212.104.214.21": {
+    "ip": "212.104.214.21",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "159.26.115.21": {
+    "ip": "159.26.115.21",
+    "location": "Singapore, Singapore - SG",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "159.26.115.141": {
+    "ip": "159.26.115.141",
+    "location": "Singapore, Singapore - SG",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "185.230.125.45": {
+    "ip": "185.230.125.45",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "149.22.89.97": {
+    "ip": "149.22.89.97",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "212.104.214.180": {
+    "ip": "212.104.214.180",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "149.88.27.230": {
+    "ip": "149.88.27.230",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "185.230.125.55": {
+    "ip": "185.230.125.55",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "146.70.226.215": {
+    "ip": "146.70.226.215",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "146.70.226.196": {
+    "ip": "146.70.226.196",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "62.169.136.34": {
+    "ip": "62.169.136.34",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "212.104.214.191": {
+    "ip": "212.104.214.191",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "212.104.214.176": {
+    "ip": "212.104.214.176",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "185.159.157.137": {
+    "ip": "185.159.157.137",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "37.120.137.206": {
+    "ip": "37.120.137.206",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "185.230.125.49": {
+    "ip": "185.230.125.49",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "212.104.214.11": {
+    "ip": "212.104.214.11",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "62.169.136.31": {
+    "ip": "62.169.136.31",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "62.169.136.39": {
+    "ip": "62.169.136.39",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  },
+  "103.134.192.167": {
+    "ip": "103.134.192.167",
+    "location": "Dhaka, Dhaka Division - BD",
+    "isp": "Sysland Speed Online Network",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    }
+  }
+}
