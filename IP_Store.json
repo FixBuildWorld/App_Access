@@ -559,5 +559,17 @@
       "tor": false,
       "hosting": false
     }
+  },
+  "79.127.180.7": {
+    "ip": "79.127.180.7",
+    "location": "Santiago de Querétaro, Querétaro - MX",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "savedAt": "2026-09-29T16:01:52.786Z"
   }
 }
