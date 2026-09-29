@@ -583,5 +583,17 @@
       "hosting": false
     },
     "savedAt": "2026-09-29T16:16:51.361Z"
+  },
+  "103.93.42.30": {
+    "ip": "103.93.42.30",
+    "location": "Marseille, Provence-Alpes-Côte d'Azur - FR",
+    "isp": "HostRoyale Technologies Pvt Ltd",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "savedAt": "2026-09-29T16:20:34.559Z"
   }
 }
