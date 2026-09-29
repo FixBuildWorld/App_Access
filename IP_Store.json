@@ -595,5 +595,21 @@
       "hosting": false
     },
     "savedAt": "2026-09-29T16:20:34.559Z"
+  },
+  "212.104.214.6": {
+    "ip": "212.104.214.6",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "latency": 989
+    },
+    "savedAt": "2026-09-29T16:46:07.588Z"
   }
 }
