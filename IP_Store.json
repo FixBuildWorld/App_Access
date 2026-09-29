@@ -571,5 +571,17 @@
       "hosting": false
     },
     "savedAt": "2026-09-29T16:01:52.786Z"
+  },
+  "193.56.113.9": {
+    "ip": "193.56.113.9",
+    "location": "Helsinki, Uusimaa - FI",
+    "isp": "Cyberzone S.A.",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "savedAt": "2026-09-29T16:16:51.361Z"
   }
 }
