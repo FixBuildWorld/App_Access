@@ -763,5 +763,22 @@
       "latency": 796
     },
     "savedAt": "2026-09-30T08:26:21.176Z"
+  },
+  "159.26.113.5": {
+    "ip": "159.26.113.5",
+    "location": "Lisbon, Lisbon - PT",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 781
+    },
+    "savedAt": "2026-09-30T08:33:40.187Z"
   }
 }
