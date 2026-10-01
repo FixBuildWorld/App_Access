@@ -882,5 +882,22 @@
       "latency": 819
     },
     "savedAt": "2026-10-01T05:50:59.780Z"
+  },
+  "212.104.214.196": {
+    "ip": "212.104.214.196",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 266
+    },
+    "savedAt": "2026-10-01T06:24:18.226Z"
   }
 }
