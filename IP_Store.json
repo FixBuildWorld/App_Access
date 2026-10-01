@@ -950,5 +950,22 @@
       "latency": 306
     },
     "savedAt": "2026-10-01T14:40:54.184Z"
+  },
+  "146.70.226.219": {
+    "ip": "146.70.226.219",
+    "location": "Zürich, Zurich - CH",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 986
+    },
+    "savedAt": "2026-10-01T15:04:50.655Z"
   }
 }
