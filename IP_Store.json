@@ -1035,5 +1035,22 @@
       "latency": 925
     },
     "savedAt": "2026-10-02T18:56:36.043Z"
+  },
+  "205.147.16.115": {
+    "ip": "205.147.16.115",
+    "location": "Amsterdam, North Holland - NL",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 330
+    },
+    "savedAt": "2026-10-02T19:01:25.227Z"
   }
 }
