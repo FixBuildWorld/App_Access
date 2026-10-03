@@ -1154,5 +1154,22 @@
       "latency": 911
     },
     "savedAt": "2026-10-03T17:06:08.439Z"
+  },
+  "159.26.115.26": {
+    "ip": "159.26.115.26",
+    "location": "Singapore, Singapore - SG",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 274
+    },
+    "savedAt": "2026-10-03T18:17:19.062Z"
   }
 }
