@@ -1205,5 +1205,22 @@
       "latency": 289
     },
     "savedAt": "2026-10-03T18:42:48.417Z"
+  },
+  "87.249.133.213": {
+    "ip": "87.249.133.213",
+    "location": "Vienna, Vienna - AT",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 1014
+    },
+    "savedAt": "2026-10-03T18:47:42.410Z"
   }
 }
