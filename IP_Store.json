@@ -1188,5 +1188,22 @@
       "latency": 297
     },
     "savedAt": "2026-10-03T18:26:57.297Z"
+  },
+  "62.169.136.20": {
+    "ip": "62.169.136.20",
+    "location": "Zürich, Zurich - CH",
+    "isp": "Proton AG",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 289
+    },
+    "savedAt": "2026-10-03T18:42:48.417Z"
   }
 }
