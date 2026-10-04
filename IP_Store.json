@@ -1222,5 +1222,22 @@
       "latency": 1014
     },
     "savedAt": "2026-10-03T18:47:42.410Z"
+  },
+  "146.70.194.104": {
+    "ip": "146.70.194.104",
+    "location": "Saint-Denis, Île-de-France - FR",
+    "isp": "M247 Europe SRL",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 1011
+    },
+    "savedAt": "2026-10-04T05:18:35.983Z"
   }
 }
