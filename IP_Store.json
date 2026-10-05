@@ -1392,5 +1392,22 @@
       "latency": 321
     },
     "savedAt": "2026-10-05T17:29:33.775Z"
+  },
+  "95.173.205.133": {
+    "ip": "95.173.205.133",
+    "location": "Oslo, Oslo - NO",
+    "isp": "Datacamp Limited",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 942
+    },
+    "savedAt": "2026-10-05T18:12:38.141Z"
   }
 }
