@@ -1460,5 +1460,22 @@
       "latency": 1084
     },
     "savedAt": "2026-10-05T18:46:53.333Z"
+  },
+  "116.90.74.180": {
+    "ip": "116.90.74.180",
+    "location": "Auckland, Auckland - NZ",
+    "isp": "GSL Networks Pty LTD",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 1365
+    },
+    "savedAt": "2026-10-05T19:23:33.931Z"
   }
 }
