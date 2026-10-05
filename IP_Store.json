@@ -1494,5 +1494,22 @@
       "latency": 1835
     },
     "savedAt": "2026-10-05T19:27:39.359Z"
+  },
+  "103.75.11.142": {
+    "ip": "103.75.11.142",
+    "location": "Auckland, Auckland - NZ",
+    "isp": "Host Universal Pty Ltd",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 661
+    },
+    "savedAt": "2026-10-05T20:05:58.864Z"
   }
 }
