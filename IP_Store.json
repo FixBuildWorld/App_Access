@@ -1511,5 +1511,22 @@
       "latency": 661
     },
     "savedAt": "2026-10-05T20:05:58.864Z"
+  },
+  "45.139.48.248": {
+    "ip": "45.139.48.248",
+    "location": "Zagreb, Zagreb - HR",
+    "isp": "EstNOC OU",
+    "security": {
+      "vpn": false,
+      "proxy": false,
+      "tor": false,
+      "hosting": false
+    },
+    "connectivity": {
+      "reachable": true,
+      "reason": null,
+      "latency": 1125
+    },
+    "savedAt": "2026-10-06T18:00:52.922Z"
   }
 }
